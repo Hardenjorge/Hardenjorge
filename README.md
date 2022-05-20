@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Hardenjorge
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Olá pessoal 👋
 
-<!---
-Hardenjorge/Hardenjorge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 🔭 Atualmente estou estudando GitHub
+- 🌱 Atualmente estou aprendendo portfólio no GitHub
+- 👯 Estou procurando AJUDAR a comunidade
+- 🤔 Estou procurando ajuda com Alura
+- 💬 Pergunte-me sobre o Deyverson
+- 📫 Como entrar em contato comigo.....
+- 😄 Pronomes: Deyverson
+- ⚡ Curiosidade: Deyverson
+-->
