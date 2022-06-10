@@ -9,4 +9,4 @@
 - 📫 Como entrar em contato comigo.....
 - 😄 Pronomes: Deyverson
 - ⚡ Curiosidade: Deyverson
--->
+- cr7 lindo 
